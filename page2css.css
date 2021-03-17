@@ -1,0 +1,84 @@
+/* page 2 css code */
+body , html {
+    height: 100%;
+    margin: 0%;
+
+}
+.background {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(backgroundp2.jpg);
+    background-position: center;
+    height: 100%;
+    min-height: 500PX;
+    background-size: cover;
+
+}
+header {
+    border: black 2px solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1%;
+    backdrop-filter: blur(50px);
+
+}
+.title {
+    font-size: 300%;
+    font-family: 'Lucida Sans';
+}
+.t {
+    font-family: Arial, Helvetica, sans-serif;
+}
+section {
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    backdrop-filter: blur(50px);
+    border: black 2px solid;
+    margin-bottom: 2%;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-left:1%;
+    font-size: 110%;
+}
+h2 {
+    text-align: center;
+    margin-left: 1% ;
+    font-size: xx-large;
+}
+.img {
+    margin-bottom: 1%;
+}
+.a {
+    color: black;
+    margin-left: 1%;
+    font-size: 120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+/*Project001css :) */
+/*main page*/
+/* .footer {
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0%;
+} */
+.logo {
+    width: 3.8%;
+    height: 3.8%;
+    margin-right: 10px;
+    vertical-align: text-bottom;
+    
+}
+h2 {
+    margin-left: 70%;
+    
+}
+.font {
+    margin-right: 40%;
+    margin-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 175%;
+    color: white;
+}
+.font2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    color:whitesmoke ;
+    -webkit-text-stroke: black 1px; /*bordure de text*/
+}
+.font3 {
+    font-size: 150%;
+    color: whitesmoke ;
+    -webkit-text-stroke: black 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a {
+    font-size: 90%;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 2%;
+    color: white;
+}
+.a1 {
+    font-size: 105%;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 2%;
+    color: white;
+    -webkit-text-stroke: black 0.5px;
+    
+}
+.a2 {
+    margin-right: 10%;
+}
+.a3 {
+    margin-right: 24.5%;
+}
+.f {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 30%;
+    text-align: center;
+    backdrop-filter: blur(5px);
+    
+}
+/* pour fixez l image de background = */
+body , html {
+    height: 100%;
+    margin: 0%;
+
+}
+.background {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(background.jpg);
+    background-position: center;
+    height: 100%;
+    min-height: 500PX;
+    background-size: cover;
+
+}
